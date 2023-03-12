@@ -1,0 +1,10 @@
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\x64\Debug\System Clean.exe.config
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\x64\Debug\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\x64\Debug\System Clean.pdb
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\DeletarArquivos.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\DeletarArquivos.Form1.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\DeletarArquivos.Properties.Resources.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\DeletarArquivos.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\DeletarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\x64\Debug\System Clean.pdb

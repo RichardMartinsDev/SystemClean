@@ -1,0 +1,21 @@
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Release\System Clean.exe.config
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Release\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Release\System Clean.pdb
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.Form1.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.Properties.Resources.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\System Clean.pdb
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csprojAssemblyReference.cache
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\bin\Release\System Clean.exe.config
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\bin\Release\System Clean.exe
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\bin\Release\System Clean.pdb
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.Form1.resources
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\DeletarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\System Clean.exe
+C:\Users\Administrador\Desktop\Programa System Clean\Deletar pastas\DeletarArquivos\obj\Release\System Clean.pdb

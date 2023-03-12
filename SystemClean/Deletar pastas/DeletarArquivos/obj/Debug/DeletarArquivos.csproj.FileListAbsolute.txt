@@ -1,0 +1,19 @@
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\bin\Debug\DeletarArquivos.exe.config
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\bin\Debug\DeletarArquivos.exe
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\bin\Debug\DeletarArquivos.pdb
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.csprojAssemblyReference.cache
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.Form1.resources
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.Properties.Resources.resources
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.csproj.GenerateResource.cache
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.csproj.CoreCompileInputs.cache
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.exe
+c:\cshp_setembro_2018\DeletarArquivos\DeletarArquivos\obj\Debug\DeletarArquivos.pdb
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\DeletarArquivos.Form1.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\DeletarArquivos.Properties.Resources.resources
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\DeletarArquivos.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\DeletarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Debug\System Clean.exe.config
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Debug\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\bin\Debug\System Clean.pdb
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\System Clean.exe
+C:\Users\Richard\Desktop\Deletar pastas\DeletarArquivos\obj\Debug\System Clean.pdb
